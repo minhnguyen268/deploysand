@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/7785df7c-fbf1-4622-9fe1-0a871d300602/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/server-megalott",
+  "appService.deploySubpath": "."
+}
